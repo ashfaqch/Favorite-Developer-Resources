@@ -1,4 +1,4 @@
-# Favorite NuGet Packages
+# Favorite Packages NuGet
 
 The list is not any particular order!
 

@@ -1,4 +1,4 @@
-# Favorite NPM Packages
+# Favorite Packages NPM
 
 The list is not any particular order!
 
