@@ -1,2 +1,3 @@
-# Favorite-Developer-Resources
-Favorite Developer Resources
+# Favorite Developer Resources
+
+Coming soon!
