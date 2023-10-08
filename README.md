@@ -11,3 +11,5 @@ If you liked this repository or find it useful, please give it a star. Thank you
 - [Favorite Extensions Visual Studio Code](./favorite-extensions-vscode.md)
 - [Favorite Extensions Google Chrome](./favorite-extensions-chrome.md)
 - [Favorite Resources API](./favorite-resources-api.md)
+- [Favorite Resources Website](./favorite-resources-website.md)
+- [Favorite Online Code Editor](./favorite-online-code-editor.md)
