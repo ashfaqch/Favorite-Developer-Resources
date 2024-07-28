@@ -19,6 +19,10 @@ The list is not any particular order!
 
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) - Serialize and deserialize any .NET Framework object.
 
+- [Polly](https://www.nuget.org/packages/polly/) - A library that provides tools and patterns to help developers handle faults and retries in their code.
+
+- [Refit](https://www.nuget.org/packages/Refit) - A library to create type-safe, dynamic, and HTTP-based APIs. It enables programmers to create clear, simple code to use RESTful APIs.
+
 ## Testing
 
 - [xunit](https://www.nuget.org/packages/xunit/) - Unit testing tool for the .NET Framework.
